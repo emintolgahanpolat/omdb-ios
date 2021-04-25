@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>417356295200-amdmuid16ebo4tim27isejk253bh1lt5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.417356295200-amdmuid16ebo4tim27isejk253bh1lt5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwmHXVIzs5aEspSRNxe4IEPJMfMj1a5Zo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417356295200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emintolgahanpolat.omdb</string>
+	<key>PROJECT_ID</key>
+	<string>vtsam-68785</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vtsam-68785.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417356295200:ios:2aedd554eb687a60836045</string>
+	<key>DATABASE_URL</key>
+	<string>https://vtsam-68785-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
